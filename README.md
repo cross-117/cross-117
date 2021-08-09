@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cross-117. 
+- 👋 Hi, I’m Alex De Croix. 
 - 👀 I’m interested in Full Stack Development, Databases, Big DATA, and Security
-- 🌱 I’m currently learning Network and Website Security
+- 🌱 I’m currently learning Networking and Website Security
 - 💞️ I’m looking to collaborate on Full Stack Development
-- 📫 How to reach me by telepathy. Or email. 
+- 📫 You can reach me by telepathy. Or email. 
 
 
 
