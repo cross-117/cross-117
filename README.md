@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex De Croix. 
+- 👋 Hi. 
 - 👀 I’m interested in Full Stack Development, Databases, Big DATA, and Security
 - 🌱 I’m currently learning Networking and Website Security
 - 💞️ I’m looking to collaborate on Full Stack Development
